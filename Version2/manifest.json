@@ -10,7 +10,7 @@
 
   "background": 
     {
-      "scripts": ["blackify.js"]
+      "scripts": ["background.js"]
     },
     "content_scripts": [
       {
