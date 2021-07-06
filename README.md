@@ -1,6 +1,6 @@
 # F12-FiddleBits
 
-Hello! This is a firefox extension (my first one!) which allows you to make fiddling with the dev tools of a website a wee bit easier.
+Hello! This is a **firefox** extension (my first one!) which allows you to make fiddling with the dev tools of a website a wee bit easier.
 
 - Download all the files (From Version2) in one folder, 
 - go to about:debugging on firefox,
