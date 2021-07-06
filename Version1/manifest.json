@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "F12 Fiddlebits",
+  "version": "1.0",
+
+  "description": "Blocks Web Pages",
+
+  "permissions": ["contextMenus","clipboardWrite"],
+
+  "background": 
+    {
+      "scripts": ["blackify.js"]
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*/*","file:///*"],
+        "js": ["content.js"]
+      }
+    ]
+  
+
+}
