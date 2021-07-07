@@ -9,3 +9,5 @@ Hello! This is a **firefox** extension (my first one!) which allows you to make 
 - select the manifest.json!
 
 You probably wouldn't have to go through all those if I actually took the effort and put this addon to the firefox's addon site but ahhhhh whatever!
+
+Update: working on a chrome extension for it! Progress is stored in the Chrome folder.
