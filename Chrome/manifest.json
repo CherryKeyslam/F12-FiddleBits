@@ -1,0 +1,18 @@
+{
+  "name": "F12 Fiddlebits",
+  "description": "To make fiddling with the dev tools of a website a wee bit easier!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*","file:///*"],
+      "js": ["content.js"]
+    }
+  ]
+}
