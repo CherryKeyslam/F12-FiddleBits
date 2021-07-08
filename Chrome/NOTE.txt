@@ -1,0 +1,8 @@
+This is the chrome version! To use this:
+- download all these files in a folder,
+- go to chrome://extensions, 
+- toggle developer mode on, 
+- then click load unpacked,
+- and choose the manifest.json file! 
+
+Haza! Everythings ready!
