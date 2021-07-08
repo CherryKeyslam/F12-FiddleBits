@@ -1,0 +1,8 @@
+To use the firefox version of F12 Fiddlebits,
+- Download all these files in a folder,
+- go to about:debugging
+- click, "This Firefox"
+- then click load temporary add-on,
+- and choose the manifest file!
+
+Your ready to go now!
